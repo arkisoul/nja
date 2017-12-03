@@ -64,7 +64,10 @@
     #caurosal_slidersec {
         padding: 0% 8%;
     }
-    #hero_carousel .carousel-inner .item {
+    #hero_carousel .carousel-inner .item,
+    .project_header,
+    .project_detail_header,
+    .studio_header {
         background-attachment: scroll;
     }
     .carousel_linesec {
